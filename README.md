@@ -8,6 +8,7 @@
 ([http://id.nii.ac.jp/1001/00224078/](http://id.nii.ac.jp/1001/00224078/))
 
 ### 国際会議（査読あり）
-- Tsuda, A. & Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.([https://www.learntechlib.org/p/219687/](https://www.learntechlib.org/p/219687/))
+- Tsuda, A. & Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.  
+([https://www.learntechlib.org/p/219687/](https://www.learntechlib.org/p/219687/))
 
 
