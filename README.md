@@ -7,6 +7,10 @@
 - 津田敦哉, 清雄一, 松崎和賢 (2023) スマートホームのセンサデータを用いた頑健なレム睡眠予測モデルの検討, 研究報告知能システム（ICS）, Vol.2023-ICS-208, No.4, pp.1-4.  
 ([http://id.nii.ac.jp/1001/00224078/](http://id.nii.ac.jp/1001/00224078/))
 
+- 津田敦哉, 松崎和賢 (2023) ゲーミフィケーションを活用した児童・生徒向け情報セキュリティ学習プログラムの開発, 研究報告コンピュータと教育（CE）, Vol.2023-CE-169, No.29, pp.1-8.  
+([http://id.nii.ac.jp/1001/00225028/](http://id.nii.ac.jp/1001/00225028/))
+
+
 ### 国際会議（査読あり）
 - Tsuda, A. & Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.  
 ([https://www.learntechlib.org/p/219687/](https://www.learntechlib.org/p/219687/))
