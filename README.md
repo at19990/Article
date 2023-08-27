@@ -15,4 +15,6 @@
 - Tsuda, A. & Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.  
 ([https://www.learntechlib.org/p/219687/](https://www.learntechlib.org/p/219687/))
 
+- A. Tsuda, K. Matsuzaki, Y. Sei,. Developing REM Sleep Prediction Models Using Smart Home Sensor Data. 2023 IEEE World Conference on Applied Intelligence and Computing (AIC), Varanasi, India, 2023. (in press)
+
 
