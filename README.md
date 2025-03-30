@@ -9,6 +9,7 @@
 ([http://id.nii.ac.jp/1001/00225028/](http://id.nii.ac.jp/1001/00225028/))
 - 津田敦哉, 松崎和賢 (2024) GPT-4を用いた対話型エージェントの開発と情報セキュリティ教育への応用, 信学技報, Vol. 123, No. 414, SS2023-80, pp. 186-189.   
 ([https://ken.ieice.org/ken/paper/20240309EcCn/](https://ken.ieice.org/ken/paper/20240309EcCn/))
+- 津田敦哉, 松崎和賢 (2025) Retrieval-Augmented Generation を用いた教育用デジタルゲームシナリオの生成支援, 情報処理学会研究報告, Vol.2025-CN-125, No.10, pp.1-8.
 
 ### 国際会議（査読あり）
 - Tsuda, A. & Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.  
