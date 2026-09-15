@@ -9,7 +9,8 @@
 ([http://id.nii.ac.jp/1001/00225028/](http://id.nii.ac.jp/1001/00225028/))
 - 津田敦哉, 松崎和賢 (2024) GPT-4を用いた対話型エージェントの開発と情報セキュリティ教育への応用, 信学技報, Vol. 123, No. 414, SS2023-80, pp. 186-189.   
 ([https://ken.ieice.org/ken/paper/20240309EcCn/](https://ken.ieice.org/ken/paper/20240309EcCn/))
-- 津田敦哉, 松崎和賢 (2025) Retrieval-Augmented Generation を用いた教育用デジタルゲームシナリオの生成支援, 情報処理学会研究報告, Vol.2025-CN-125, No.10, pp.1-8.
+- 津田敦哉, 松崎和賢 (2025) Retrieval-Augmented Generation を用いた教育用デジタルゲームシナリオの生成支援, 情報処理学会研究報告, Vol.2025-CN-125, No.10, pp.1-8.  
+  (https://ipsj.ixsq.nii.ac.jp/records/2000596)
 
 ### 国際会議（査読あり）
 - Tsuda, A. & Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.  
@@ -17,4 +18,6 @@
 - A. Tsuda, K. Matsuzaki and Y. Sei, "Developing REM Sleep Prediction Models Using Smart Home Sensor Data," 2023 IEEE World Conference on Applied Intelligence and Computing (AIC), Sonbhadra, India, 2023, pp. 851-856, doi: 10.1109/AIC57670.2023.10263930.  
   ([https://ieeexplore.ieee.org/document/10263930/](https://ieeexplore.ieee.org/document/10263930/ ))
 
-
+### 論文誌 (査読あり)
+- 津田敦哉, 清雄一, 松崎和賢 (2026) RAGを用いたサイバーセキュリティ演習シナリオ生成フレームワークの提案, 情報処理学会論文誌, Vol.67, No.8, pp. 1251-1261. [特選論文]  
+  (https://ipsj.ixsq.nii.ac.jp/records/2011021)
