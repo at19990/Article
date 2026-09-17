@@ -13,11 +13,18 @@
   (https://ipsj.ixsq.nii.ac.jp/records/2000596)
 
 ### 国際会議（査読あり）
-- Tsuda, A. & Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.  
+- Tsuda, A., Kakuta, T. (2021). Developing a Question Board System for Role-Playing in Legal Education. Proceedings of EdMedia + Innovate Learning 2021, pp. 413-418.  
 ([https://www.learntechlib.org/p/219687/](https://www.learntechlib.org/p/219687/))
-- A. Tsuda, K. Matsuzaki and Y. Sei, "Developing REM Sleep Prediction Models Using Smart Home Sensor Data," 2023 IEEE World Conference on Applied Intelligence and Computing (AIC), Sonbhadra, India, 2023, pp. 851-856, doi: 10.1109/AIC57670.2023.10263930.  
+- Tsuda, A., Matsuzaki, K., Y, Sei. (2023). Developing REM Sleep Prediction Models Using Smart Home Sensor Data, 2023 IEEE World Conference on Applied Intelligence and Computing (AIC), Sonbhadra, India, pp. 851-856.  
   ([https://ieeexplore.ieee.org/document/10263930/](https://ieeexplore.ieee.org/document/10263930/ ))
 
 ### 論文誌 (査読あり)
 - 津田敦哉, 清雄一, 松崎和賢 (2026) RAGを用いたサイバーセキュリティ演習シナリオ生成フレームワークの提案, 情報処理学会論文誌, Vol.67, No.8, pp. 1251-1261. [特選論文]  
   (https://ipsj.ixsq.nii.ac.jp/records/2011021)
+
+### 書籍等出版物
+- Matsuzaki, K., Tsuda, A., Hara, S., Sudoh, O. (2025). Proof of Concept Experiments with Generative AI in Local Communities: Exploration of Multi-Stakeholder Processes Through Workshops. In: Sudoh, O. (eds) Data Analysis Impact on Social System and Social Sciences: Study on the Social Impact of DX and AI in Japan. SpringerBriefs for Data Scientists and Innovators, Vol 3. Springer, Singapore.
+  (https://doi.org/10.1007/978-981-95-2613-0_4)
+
+### 学位論文
+- 津田敦哉 (2025) 大規模言語モデルを用いた初学者向けサイバーセキュリティ教育用デジタルゲームシナリオ生成手法の開発, 中央大学大学院国際情報研究科修士論文.
