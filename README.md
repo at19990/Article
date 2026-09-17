@@ -23,7 +23,7 @@
   (https://ipsj.ixsq.nii.ac.jp/records/2011021)
 
 ### 書籍等出版物
-- Matsuzaki, K., Tsuda, A., Hara, S., Sudoh, O. (2025). Proof of Concept Experiments with Generative AI in Local Communities: Exploration of Multi-Stakeholder Processes Through Workshops. In: Sudoh, O. (eds) Data Analysis Impact on Social System and Social Sciences: Study on the Social Impact of DX and AI in Japan. SpringerBriefs for Data Scientists and Innovators, Vol 3. Springer, Singapore.
+- Matsuzaki, K., Tsuda, A., Hara, S., Sudoh, O. (2025). Proof of Concept Experiments with Generative AI in Local Communities: Exploration of Multi-Stakeholder Processes Through Workshops. In: Sudoh, O. (eds) Data Analysis Impact on Social System and Social Sciences: Study on the Social Impact of DX and AI in Japan. SpringerBriefs for Data Scientists and Innovators, Vol 3. Springer, Singapore.  
   (https://doi.org/10.1007/978-981-95-2613-0_4)
 
 ### 学位論文
